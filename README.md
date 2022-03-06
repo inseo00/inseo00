@@ -1,3 +1,3 @@
 
-<img src="https://img.shields.io/badge/Scss-skybule?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/blue/E34F26-white?style=flat&logo=Sass&logoColor=CC6699"/>
 
