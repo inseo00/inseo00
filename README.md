@@ -4,5 +4,5 @@ img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}
 
 <img src="https://img.shields.io/badge/CSS-skyblue?style=flat&logo=CSS&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/javascript-LightCyan?style=flat&logo=javascript&logoColor=MediumSpringGreen"/>
+<img src="https://img.shields.io/badge/javascript-LightCyan?style=flat&logo=javascript&logoColor=LightCyan"/>
 
